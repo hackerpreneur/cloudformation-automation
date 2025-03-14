@@ -1,6 +1,0 @@
-AWSTemplateFormatVersion: "2010-09-09"
-Description: "Add an S3 bucket to the CloudFormation stack"
-
-Resources:
-  S3Bucket:
-    Type: AWS::S3::Bucket
