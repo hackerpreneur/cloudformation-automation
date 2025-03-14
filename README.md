@@ -1,6 +1,7 @@
 # 🚀 AWS CloudFormation Automation Lab
 
 ![image](https://github.com/user-attachments/assets/d32023b2-687c-48ed-9dc0-ba7b97b877e4)
+<img src="https://github.com/user-attachments/assets/d32023b2-687c-48ed-9dc0-ba7b97b877e4" width="300">
 
 
 ## 📖 Introduction
