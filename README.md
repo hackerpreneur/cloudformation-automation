@@ -1,6 +1,7 @@
 # 🚀 AWS CloudFormation Automation Lab
 
-![AWS CloudFormation](https://upload.wikimedia.org/wikipedia/commons/8/8d/AWS_CloudFormation_Logo.png)
+![image](https://github.com/user-attachments/assets/d32023b2-687c-48ed-9dc0-ba7b97b877e4)
+
 
 ## 📖 Introduction
 This project demonstrates **Infrastructure as Code (IaC)** using **AWS CloudFormation**, enabling automated and repeatable AWS infrastructure deployment.
