@@ -3,6 +3,7 @@ Description: Lab template
 
 # Lab VPC with public subnet and Internet Gateway
 
+
 Parameters:
 
   LabVpcCidr:
