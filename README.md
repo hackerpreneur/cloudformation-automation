@@ -1,8 +1,15 @@
 # 🚀 AWS CloudFormation Automation Lab
 
-![image](https://github.com/user-attachments/assets/d32023b2-687c-48ed-9dc0-ba7b97b877e4)
-<img src="https://github.com/user-attachments/assets/d32023b2-687c-48ed-9dc0-ba7b97b877e4" width="300">
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d32023b2-687c-48ed-9dc0-ba7b97b877e4" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/63034a5e-1879-4c71-ad4f-1507cc0b6c9a" width="300"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/307c0840-0e0d-4576-8e0e-e8764bc50304" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/bd55efb3-9cb2-4c58-bc08-eb2acfd6a30a" width="300"></td>
+  </tr>
+</table>
 
 ## 📖 Introduction
 This project demonstrates **Infrastructure as Code (IaC)** using **AWS CloudFormation**, enabling automated and repeatable AWS infrastructure deployment.
